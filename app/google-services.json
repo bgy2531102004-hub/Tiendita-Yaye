@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "722210235868",
+    "project_id": "yaye-18a6a",
+    "storage_bucket": "yaye-18a6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722210235868:android:3072440a8c9acdb82e5b19",
+        "android_client_info": {
+          "package_name": "com.example.practica2u2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTTXMrh-L3NvWSH9MJnlexDdFIR2whQc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722210235868:android:399ddb42af4294822e5b19",
+        "android_client_info": {
+          "package_name": "com.example.tiendita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTTXMrh-L3NvWSH9MJnlexDdFIR2whQc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722210235868:android:e4f0f615d4d54b8c2e5b19",
+        "android_client_info": {
+          "package_name": "com.example.universidad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTTXMrh-L3NvWSH9MJnlexDdFIR2whQc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
